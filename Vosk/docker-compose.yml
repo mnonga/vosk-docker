@@ -11,10 +11,7 @@ services:
 
 # docker compose run vosk
 
-# download https://alphacephei.com/vosk/models/vosk-model-small-fr-0.22.zip
-
 # vosk-transcriber -i input.mp3 -o test.txt -n vosk-model-small-fr-0.22
 
 
-# vosk-transcriber -i input.mp3 -o test.txt -n vosk-model-small-fr-0.22 -l fr
-# vosk-transcriber -i input.mp3 -o test.txt -l fr
+# vosk-transcriber --help
